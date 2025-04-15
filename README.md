@@ -53,7 +53,7 @@
 <details>
 <summary><h2>Achievements 🏆</h2></summary>
 
-[![@avixkap's Holopin board](https://holopin.me/avixkap)](https://holopin.io/@avixkap)
+[![@avixkap's Holopin board](https://holopin.me/avishka2k)](https://holopin.io/@avishka2k)
 
 <div align="center">
 <img width="150" src="https://user-images.githubusercontent.com/86360412/214757966-662518c6-1388-45c1-8cc3-398c9ba11a28.png" alt="Postman API Fundamentals Student Expert Bagde" />
